@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: green;
+  min-height: 10vh;
+}
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+li {
+  text-decoration: none;
+}

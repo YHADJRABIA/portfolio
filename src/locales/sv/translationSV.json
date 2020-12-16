@@ -1,0 +1,31 @@
+{
+  "firstName": "Yacine",
+  "lastName": "Hadj Rabia",
+  "myself": "Mig själv",
+  "languages": {
+    "en": "Engelska",
+    "fr": "Franska",
+    "ru": "Ryska",
+    "sv": "Svenska"
+  },
+  "occupations": ["Fullstackutvecklare", "Deltidsöversättare", "Språkälskare"],
+  "navNames": {
+    "about": "Om mig",
+    "skills": "Kvalifikationer",
+    "portfolio": "Portfolio"
+  },
+  "about": {
+    "title": "Om mig",
+    "content": "Tro det eller ej, men att beskriva mig har varit den svåraste del av den här sidans utveckling! Jag ska försöka snart nog..."
+  },
+  "skills": {
+    "title": "Kvalifikationer",
+    "content": "Som en elektronikingenjör, jag har lärt mig kodning ganska tidigt för att den var ett stort del av min utbildning, och har bland annat användt MATLAB, VHDL med mera. Med tanke på tjänsten jag vill inneha — kvalifikationer som gäller inte web ytveckling ska inte vara nämnas där nere. "
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "content": "Kolla in min Github sida eller LinkedIn för att få reda på vad som jag har jobbat på."
+  },
+  "madeWith": "Skapat med ReactJS",
+  "inProgress": "Under konstruktion"
+}

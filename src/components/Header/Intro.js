@@ -31,9 +31,6 @@ const Intro = ({ i18n }) => {
         <a href="#about" className="scroll-down-arrow"></a>
       </div>
     </>
-
-    /*     var sectionName = document.documentElement.lang === 'pl' ? 'O mnie' : 'About';
-    var hello = document.documentElement.lang === 'pl' ? 'Cześć' : 'Hi'; */
   );
 };
 
